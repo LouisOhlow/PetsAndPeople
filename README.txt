@@ -15,6 +15,4 @@ How to start:
 now the web-app should be running on 'localhost:3000'
 
 <img src = petsandpeople.png height = 400px>
-
-
 <img src = petsandpeople1.png height = 400px>
