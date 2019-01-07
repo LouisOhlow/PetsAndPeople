@@ -1,0 +1,15 @@
+Coding Task
+
+Author:
+  Louis Ohlow
+
+Info:
+  While creating this project, i began by learning ReactJS with a tutorial by TraversyMedia: 'https://www.youtube.com/watch?v=A71aqufiNtQ&t=1845s'.
+  Because of that, some code parts in the client folder might be similar to his tutorial.
+
+How to start:
+1. open the CMD
+2. cd to the petsandpeople folder
+3. to start the client and the server enter: npm run dev
+
+now the web-app should be running on 'localhost:3000'

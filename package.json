@@ -1,0 +1,31 @@
+{
+  "name": "petsandpeople",
+  "version": "1.0.0",
+  "description": "inflightVR coding task",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "cd client && npm start",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Louis Ohlow",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.1.0",
+    "create-react-app": "^2.1.1",
+    "express": "^4.16.4",
+    "mongoclient": "^1.0.3",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.13",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "reactstrap": "^6.5.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
